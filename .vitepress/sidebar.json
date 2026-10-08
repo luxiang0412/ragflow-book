@@ -1,0 +1,11 @@
+[
+  {"text": "Part 0 导读", "items": ["00-how-to-read"]},
+  {"text": "Part I 全景", "items": ["01-why-rag", "02-architecture", "03-one-document-life"]},
+  {"text": "Part II 地基 → v0.1", "items": ["04-data-model", "05-file-storage-upload", "06-ingestion-tasks", "lab-1-v01"]},
+  {"text": "Part III 解析与切分 → v0.2", "items": ["07-pipeline-dsl", "08-parsers-deepdoc", "09-chunking", "10-tokenizer-embedding", "lab-2-v02"]},
+  {"text": "Part IV 检索 → v0.3", "items": ["11-doc-engine", "12-query-builder", "13-hybrid-rerank", "14-retrieval-testing-ui", "lab-3-v03"]},
+  {"text": "Part V 知识库问答 → v0.4", "items": ["15-chat-pipeline", "16-streaming-citations", "17-chat-ui", "lab-4-v04"]},
+  {"text": "Part VI 进阶 → v0.5", "items": ["18-extractor", "19-metadata-filter", "20-raptor-compile", "21-agentic-rag", "lab-5-v05"]},
+  {"text": "Part VII 平台化 → v1.0", "items": ["22-tenancy-auth", "23-external-apis", "24-ingestor-scaling", "25-syncer", "26-deploy-observe", "lab-6-v10"]},
+  {"text": "附录", "items": ["appendix/a-source-map", "appendix/b-glossary", "appendix/c-comparison", "appendix/d-answers"]}
+]
